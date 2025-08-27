@@ -30,8 +30,6 @@
 # 🏆 LeetCode Stats:
 [![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=nidhaan_dubey&theme=dark)](https://leetcode.com/u/nidhaan_dubey/)  
 
-![LeetCode Card](https://leetcard.jacoblin.cool/nidhaan_dubey?theme=dark)  
-
 ### 🔥 LeetCode Daily Streak:
 ![LeetCode Streak](https://leetcard.jacoblin.cool/nidhaan_dubey?theme=dark&ext=heatmap)
 
