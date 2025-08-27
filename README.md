@@ -14,7 +14,7 @@
 - 💻 Passionate about **Software Development, DSA, and AI/ML**  
 - 🛠 Skilled in **C/C++, Python, React.js, React Native, Node.js, Express, MongoDB, Selenium**  
 - 📚 Experienced in **DBMS, OS, CN, and OOPs**  
-- 🚀 Interned as **Mobile App Developer @ ATH Technologies** (built Sales Executive Tracking System)  
+- 🚀 Interned as **Mobile App Developer @ ATH Technologies** (Sales Executive Tracking System)  
 - 🌱 Growth Intern @ FACT-APP (Frontend development & Agile contributions)  
 - 🏆 Solved **600+ DSA problems** across LeetCode, Coding Ninjas, and GFG  
 
@@ -30,7 +30,10 @@
 # 🏆 LeetCode Stats:
 [![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=nidhaan_dubey&theme=dark)](https://leetcode.com/u/nidhaan_dubey/)  
 
-![LeetCode Card](https://leetcard.jacoblin.cool/nidhaan_dubey?theme=dark)
+![LeetCode Card](https://leetcard.jacoblin.cool/nidhaan_dubey?theme=dark)  
+
+### 🔥 LeetCode Daily Streak:
+![LeetCode Streak](https://leetcard.jacoblin.cool/nidhaan_dubey?theme=dark&ext=heatmap)
 
 ---
 
@@ -62,4 +65,3 @@
 [![](https://visitcount.itsvg.in/api?id=nidhaandubey&icon=0&color=0)](https://visitcount.itsvg.in)  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
