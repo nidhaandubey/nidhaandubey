@@ -2,7 +2,7 @@
 
 
 ## 🌐 Socials:
-[![Portfolio]()](https://bsky.app/profile/https://nid-portfolio.vercel.app/) [![Leetcode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://discord.gg/https://leetcode.com/u/nidhaan_dubey/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nidhaan-dubey-73a790250/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nidhaandubey2@gamil.com) 
+[![Portfolio]](https://bsky.app/profile/https://nid-portfolio.vercel.app/) [![Leetcode]](https://discord.gg/https://leetcode.com/u/nidhaan_dubey/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nidhaan-dubey-73a790250/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nidhaandubey2@gamil.com) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nidhaandubey&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nidhaandubey&theme=dark&hide_border=false)<br/>
